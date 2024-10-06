@@ -1,0 +1,21 @@
+*{
+    margin: 10px auto;
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.pink{
+    background: pink;
+    text-align: center;
+    padding: 50px;
+}
+th,tr:first-child{
+    background: yellow;
+    font-weight: bold;
+}
+.grey{
+    background-color: grey;
+}
